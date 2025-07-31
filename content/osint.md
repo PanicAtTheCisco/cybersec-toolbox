@@ -47,4 +47,4 @@ title: OSINT
 * [webmii.com](https://webmii.com/)
 
 ### Discord Bot
-* (Bosint)[https://bosint.gg/]
+* [Bosint](https://bosint.gg/)
