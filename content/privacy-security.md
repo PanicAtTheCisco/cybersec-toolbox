@@ -9,7 +9,7 @@ title: Privacy and Security
 * [emailselfdefense.fsf.org](https://emailselfdefense.fsf.org/en/)
 * [gnupg.org](https://gnupg.org/documentation/howtos.html)
 * [torproject.org](https://www.torproject.org/)
-* [TheHiddenWiki](https://thehiddenwiki.org/)
+* [thehiddenwiki.org](https://thehiddenwiki.org/)
 * [deepl.com](https://www.deepl.com/translator)
 * [filen.io](https://filen.io/)
 * [quad9.net](https://quad9.net/)
