@@ -23,4 +23,4 @@ title: Cybersec Toolbox
 * I won't be adding descriptions to everything as I don't feel like curating that. I will for some specific stuff though.
 
 ### GitHub
-The quartz configuration I am using can be found here: https://github.com/PanicAtTheCisco/cybersec-toolbox
+The quartz configuration I am using can be found here: [Quartz Config](https://github.com/PanicAtTheCisco/cybersec-toolbox)
