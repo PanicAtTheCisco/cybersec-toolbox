@@ -1,6 +1,5 @@
 ## Cybersec Toolbox
 A repository of Cybersecurity tools and resources I have found to be useful
-* https://panicatthecisco.github.io/cybersec-toolbox/
 
 
 ### Made using Quartz v4
