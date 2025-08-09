@@ -2,8 +2,8 @@
 title: OSINT
 ---
 
-### General Tools
-* [osintframework.com](https://osintframework.com/)
+### Tool Collections
+* [OSINT Framework](https://osintframework.com/)
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox) - Large repository of all kinds of OSINT tools
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)
 * [sn0int.com](https://sn0int.com/)
@@ -11,40 +11,46 @@ title: OSINT
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file)
 
 ### Air & Space Tracking
-* [globe.adsbexchange.com](https://globe.adsbexchange.com/)
-* [flightaware.com](https://www.flightaware.com/live/)
-* [radarbox.com](https://www.radarbox.com/)
-* [airportia.com](https://www.airportia.com/)
-* [amateur.sondehub.org](https://amateur.sondehub.org/)
+* [ADSB Exchange](https://globe.adsbexchange.com/)
+* [Flight Aware](https://www.flightaware.com/live/)
+* [Air Nav Radar](https://www.airnavradar.com/)
+* [Airportia](https://www.airportia.com/)
+* [SondeHub Amateur](https://amateur.sondehub.org/)
 * [satellitemap.space](https://satellitemap.space/)
-* [geoxc-apps.bd.esri.com/space/satellite-explorer](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
+* [SatelliteXplorer](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
 * [in-the-sky.org](https://in-the-sky.org/satmap_worldmap.php)
 
 ### Land & Sea Tracking
-* [openrailwaymap.org](https://www.openrailwaymap.org/)
-* [mobility.portal.geops.io](https://mobility.portal.geops.io/)
-* [opentraintimes.com](https://www.opentraintimes.com/maps)
+* [OpenRailwayMap](https://www.openrailwaymap.org/)
+* [geOps Mobility Portal](https://mobility.portal.geops.io/)
+* [Open Train Times](https://www.opentraintimes.com/maps)
 * [satellites.pro](https://satellites.pro/)
 * [Bellingcat OSM](https://osm-search.bellingcat.com/)
-* [GeoSpy AI](https://geospy.web.app/) - No longer free to use
+* [GeoSpy AI](https://geospy.web.app/) - No longer free to use but works quite well
 
 ### Camera Tracking
-* [insecam.org](http://www.insecam.org/)
-* [world-webcams.nsspot.net](https://world-webcams.nsspot.net/)
-* [earthcam.com](https://www.earthcam.com/)
-* [fisgonia.com](https://www.fisgonia.com/) - May not work anymore
-* [worldcam.eu](https://worldcam.eu/)
-* [opentopia.com](https://www.opentopia.com/hiddencam.php)
-* [livefromiceland.is](https://www.livefromiceland.is/)
+* [Insecam](http://www.insecam.org/)
+* [World Webcams](https://world-webcams.nsspot.net/)
+* [EarthCam](https://www.earthcam.com/)
+* [WorldCam](https://worldcam.eu/)
+* [Live From Iceland](https://www.livefromiceland.is/)
 
 ### Search Engines
-* [shodan.io](https://www.shodan.io/)
-* [search.censys.io](https://search.censys.io/)
-* [viz.greynoise.io](https://viz.greynoise.io/)
-* [zoomeye.org](https://www.zoomeye.org/)
+* [Shodan](https://www.shodan.io/)
+    * Internet device search engine
+* [Censys](https://search.censys.io/)
+    * Threat intel/internet device search
+* [Greynoise](https://viz.greynoise.io/)
+    * Threat intel search
 * [hunter.io](https://hunter.io/)
+    * Contact info search
 * [wigle.net](https://wigle.net/)
-* [webmii.com](https://webmii.com/)
+    * WiFi network search
+* [Webmii](https://webmii.com/)
+    * People search
+* [GrayHatWarfare Buckets](https://buckets.grayhatwarfare.com/)
+    * Public cloud bucket Search
 
 ### Discord Bot
 * [Bosint](https://bosint.gg/)
+    * Discord bot with OSINT tool capabilities

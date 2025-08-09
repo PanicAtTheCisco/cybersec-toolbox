@@ -2,7 +2,7 @@
 title: Cybersec Toolbox
 ---
 
-### Quick Access Tools
+### Quick Access InfoSec Tools
 * [HackTricks](https://book.hacktricks.xyz/)
 * [GTFO Bins](https://gtfobins.github.io/)
 * [LOLBAS](https://lolbas-project.github.io/#)
@@ -20,4 +20,4 @@ title: Cybersec Toolbox
 ### About
 * This is a repository of Cybersecurity tools and resources that I think are useful.
 * Many of these are taken from the Parrot OS default bookmarks. Many I have added myself.
-* I won't be adding descriptions to everything as I don't feel like curating that. I will for some specific stuff though.
+* I won't be adding descriptions to everything as I don't feel like curating that. I will for some stuff though.
