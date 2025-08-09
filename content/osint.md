@@ -4,7 +4,8 @@ title: OSINT
 
 ### Tool Collections
 * [OSINT Framework](https://osintframework.com/)
-* [OSINT Toolbox](https://github.com/The-Osint-Toolbox) - Large repository of all kinds of OSINT tools
+* [OSINT Toolbox](https://github.com/The-Osint-Toolbox)
+    * Large repository of all kinds of OSINT tools
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)
 * [sn0int.com](https://sn0int.com/)
 * [web-check.xyz](https://web-check.xyz/)
@@ -26,7 +27,8 @@ title: OSINT
 * [Open Train Times](https://www.opentraintimes.com/maps)
 * [satellites.pro](https://satellites.pro/)
 * [Bellingcat OSM](https://osm-search.bellingcat.com/)
-* [GeoSpy AI](https://geospy.web.app/) - No longer free to use but works quite well
+* [GeoSpy AI](https://geospy.web.app/)
+    * No longer free to use but works quite well for image geolocation
 
 ### Camera Tracking
 * [Insecam](http://www.insecam.org/)
