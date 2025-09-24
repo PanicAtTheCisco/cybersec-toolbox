@@ -33,6 +33,8 @@ title: Privacy and Security
     * Account sharing platform
 * [VPN Relation Map](https://windscribe.com/vpnmap)
     * How different VPNs are related to each other
+* [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)
+    * An initiative by a number of law enforcement agencies to provide free decryption tools to a variety of ransomware to help victims get their data back without paying
 
 ### TOR/Deep Net
 * [The Hidden Wiki](https://thehiddenwiki.org/)
