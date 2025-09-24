@@ -1,5 +1,8 @@
 ---
 title: Learning Resources
+tags:
+  - resources
+  - learning
 ---
 
 ### Programming

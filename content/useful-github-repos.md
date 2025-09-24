@@ -1,5 +1,8 @@
 ---
 title: Useful GitHub Repos
+tags:
+  - resources
+  - github-repos
 ---
 
 ### Miscellaneous GitHub repos I have found useful

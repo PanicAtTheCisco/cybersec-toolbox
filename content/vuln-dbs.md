@@ -1,5 +1,8 @@
 ---
 title: Vulnerability Databases
+tags:
+  - resources
+  - vuln-dbs
 ---
 
 ### Vulnerability Databases
