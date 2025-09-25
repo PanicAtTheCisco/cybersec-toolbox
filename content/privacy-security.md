@@ -1,5 +1,9 @@
 ---
 title: Privacy and Security
+tags:
+  - resources
+  - privacy
+  - security
 ---
 
 ## Privacy and Security Resources/Tools

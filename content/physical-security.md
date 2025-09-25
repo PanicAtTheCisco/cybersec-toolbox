@@ -1,5 +1,8 @@
 ---
 title: Physical Security
+tags:
+  - resources
+  - physical-sec
 ---
 
 ### Physical Security Resources

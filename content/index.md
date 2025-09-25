@@ -19,5 +19,4 @@ title: Cybersec Toolbox
 
 ### About
 * This is a repository of Cybersecurity tools and resources that I think are useful.
-* Many of these are taken from the Parrot OS default bookmarks. Many I have added myself.
 * I won't be adding descriptions to everything as I don't feel like curating that. I will for some stuff though.

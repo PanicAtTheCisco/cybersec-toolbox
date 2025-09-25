@@ -1,5 +1,8 @@
 ---
 title: CTF Challenges
+tags:
+  - resources
+  - ctfs
 ---
 
 ### Just a list of CTFs/ Challenges I have found fun

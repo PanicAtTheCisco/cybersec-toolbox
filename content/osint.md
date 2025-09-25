@@ -1,5 +1,8 @@
 ---
 title: OSINT
+tags:
+  - resources
+  - osint
 ---
 
 ### Tool Collections

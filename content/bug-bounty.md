@@ -1,5 +1,8 @@
 ---
 title: Bug Bounty
+tags:
+  - resources
+  - bug-bounty
 ---
 
 ### Bug Bounty Platforms
