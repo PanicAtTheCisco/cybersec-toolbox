@@ -23,4 +23,4 @@ tags:
 * [Deviant Ollam GitHub](https://github.com/deviantollam)
 
 ### Vulnerability Databases
-* [[/Vulnerability DBs/vuln-dbs.md]]
+* [[/Vulnerability DBs/vuln-dbs]]
