@@ -1,5 +1,5 @@
 ---
-title: OSINT
+title: OSINT Tools
 tags:
   - resources
   - osint
@@ -56,6 +56,6 @@ tags:
 * [GrayHatWarfare Buckets](https://buckets.grayhatwarfare.com/)
     * Public cloud bucket Search
 
-### Discord Bot
+### Discord Bots
 * [Bosint](https://bosint.gg/)
     * Discord bot with OSINT tool capabilities

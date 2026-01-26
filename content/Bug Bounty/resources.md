@@ -1,5 +1,5 @@
 ---
-title: Bug Bounty
+title: Bug Bounty Resources
 tags:
   - resources
   - bug-bounty

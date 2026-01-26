@@ -1,5 +1,5 @@
 ---
-title: Physical Security
+title: Physical Security Resources
 tags:
   - resources
   - physical-sec
