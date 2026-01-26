@@ -18,14 +18,14 @@ title: Cybersec Toolbox
 * [Binvis](https://binvis.io/#/)
 
 ## 🔍 Available Categories
-- **[Bug Bounty](/content/Bug%20Bounty/)** - Tools and resources for finding and reporting security vulnerabilities
-- **[CTF Challenges](/content/CTFs/)** - List of capture the flag competitions/challenges I've found fun
-- **[Learning Resources](/content/Learning/)** - Educational materials and guides for cybersecurity/computer science
-- **[OSINT](/content/OSINT/)** - Open source intelligence gathering tools and techniques
-- **[Physical Security](/content/Physical%20Security/)** - Physical security tools and resources
-- **[Privacy and Security](/content/Privacy%20and%20Security/)** - Tools to protect your digital privacy and security
-- **[Useful GitHub Repos](/content/Useful%20Github%20Repos/)** - Curated collection of helpful GitHub repositories I've found
-- **[Vulnerability Databases](/content/Vulnerability%20DBs/)** - CVE databases and vulnerability information sources
+- **[Bug Bounty](/Bug%20Bounty/)** - Tools and resources for finding and reporting security vulnerabilities
+- **[CTF Challenges](/CTFs/)** - List of capture the flag competitions/challenges I've found fun
+- **[Learning Resources](/Learning/)** - Educational materials and guides for cybersecurity/computer science
+- **[OSINT](/OSINT/)** - Open source intelligence gathering tools and techniques
+- **[Physical Security](/Physical%20Security/)** - Physical security tools and resources
+- **[Privacy and Security](/Privacy%20and%20Security/)** - Tools to protect your digital privacy and security
+- **[Useful GitHub Repos](/Useful%20Github%20Repos/)** - Curated collection of helpful GitHub repositories I've found
+- **[Vulnerability Databases](/Vulnerability%20DBs/)** - CVE databases and vulnerability information sources
 
 ## About
 A curated collection of cybersecurity tools and resources organized for quick access.
