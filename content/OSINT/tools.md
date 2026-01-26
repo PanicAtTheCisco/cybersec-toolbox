@@ -1,18 +1,20 @@
 ---
 title: Tools
 tags:
-  - resources
+  - tools
   - osint
 ---
 
 ### Tool Collections
 Large repositories of all kinds of OSINT tools
+* [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit)
 * [OSINT Framework](https://osintframework.com/)
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox)
 * [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)
 * [sn0int.com](https://sn0int.com/)
 * [web-check.xyz](https://web-check.xyz/)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file)
+* [Jieyab89 OSINT Cheat Sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 
 ### Air & Space Tracking
 * [ADSB Exchange](https://globe.adsbexchange.com/)
@@ -33,6 +35,9 @@ Large repositories of all kinds of OSINT tools
 * [Bellingcat OSM](https://osm-search.bellingcat.com/)
 * [GeoSpy AI](https://geospy.web.app/)
     * No longer free to use but works quite well for image geolocation
+
+### Cyber Threat Intel
+* [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
 
 ### Camera Tracking
 * [Insecam](http://www.insecam.org/)

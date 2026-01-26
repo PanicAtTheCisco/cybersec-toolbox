@@ -2,10 +2,11 @@
 title: Resources
 tags:
   - resources
-  - github-repos
+  - offensive-security
+  - physical-security
 ---
 
-## Useful GitHub Resources
+## Offensive Security Resources
 ### General
 * [Red Team Cheat Sheet](https://github.com/kobs0N/Hacking-Cheatsheet)
 * [One-Liners](https://github.com/0xPugazh/One-Liners)
@@ -17,5 +18,9 @@ tags:
 * [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet/blob/main/Error%20Based%20SQLi/README.md)
 
-### Threat Intel
-* [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+### Physical Security
+* [hooligankeys.com](https://www.hooligankeys.com/)
+* [Deviant Ollam GitHub](https://github.com/deviantollam)
+
+### Vulnerability Databases
+* [[/Vulnerability DBs/vuln-dbs.md]]
