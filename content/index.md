@@ -1,5 +1,8 @@
 ---
 title: Cybersec Toolbox
+tags:
+  - resources
+  - tools
 ---
 
 ## 🚀 Quick Access InfoSec Tools
@@ -27,5 +30,5 @@ title: Cybersec Toolbox
 - **[Useful GitHub Repos](/Useful%20Github%20Repos/)** - Curated collection of helpful GitHub repositories I've found
 - **[Vulnerability Databases](/Vulnerability%20DBs/)** - CVE databases and vulnerability information sources
 
-## About
+## 📚 About
 A curated collection of cybersecurity tools and resources organized for quick access.

@@ -1,5 +1,5 @@
 ---
-title: Useful GitHub Tools
+title: Tools
 tags:
   - tools
   - github-repos

@@ -1,5 +1,5 @@
 ---
-title: Useful GitHub Resources
+title: Resources
 tags:
   - resources
   - github-repos

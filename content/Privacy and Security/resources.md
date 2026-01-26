@@ -1,5 +1,5 @@
 ---
-title: Privacy and Security Resources
+title: Resources
 tags:
   - resources
   - privacy

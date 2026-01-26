@@ -1,5 +1,5 @@
 ---
-title: Privacy and Security Tools
+title: Tools
 tags:
   - tools
   - privacy
