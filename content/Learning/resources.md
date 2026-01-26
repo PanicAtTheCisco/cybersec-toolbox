@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Learning Resources
 tags:
   - resources
   - learning
@@ -48,8 +48,6 @@ tags:
 * [0xRadi/OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 * [mirror.parrot.sh/misc/openbooks](https://mirror.parrot.sh/parrot/misc/openbooks/)
 * [freecomputerbooks.com](https://freecomputerbooks.com/)
-* [StationX Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
-* [tib3rius SQLi Cheat Sheet](https://tib3rius.com/sqli.html)
 
 ### Blogs & Researchers
 * [freecomputerbooks.com](https://freecomputerbooks.com/)

@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: OSINT Tools
 tags:
   - tools
   - osint

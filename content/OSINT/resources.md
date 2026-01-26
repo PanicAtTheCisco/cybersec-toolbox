@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: OSINT Resources
 tags:
   - resources
   - osint

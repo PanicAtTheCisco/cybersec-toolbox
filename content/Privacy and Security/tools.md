@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Priv/Sec Tools
 tags:
   - tools
   - privacy

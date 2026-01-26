@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Priv/Sec Resources
 tags:
   - resources
   - privacy

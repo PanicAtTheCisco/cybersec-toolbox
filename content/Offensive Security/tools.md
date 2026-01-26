@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Off-Sec Tools
 tags:
     - tools
     - offensive-security
