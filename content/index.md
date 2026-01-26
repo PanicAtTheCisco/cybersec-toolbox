@@ -5,7 +5,7 @@ tags:
   - tools
 ---
 
-## 🚀 Quick Access InfoSec Tools
+## 🚀 Quick Access Tools
 * [HackTricks](https://book.hacktricks.xyz/)
 * [GTFO Bins](https://gtfobins.github.io/)
 * [LOLBAS](https://lolbas-project.github.io/#)
