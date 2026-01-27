@@ -5,7 +5,6 @@ tags:
   - offensive-security
 ---
 
-## Offensive Security Resources
 ### General
 * [Red Team Cheat Sheet](https://github.com/kobs0N/Hacking-Cheatsheet)
 * [One-Liners](https://github.com/0xPugazh/One-Liners)

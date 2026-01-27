@@ -6,9 +6,7 @@ tags:
   - security
 ---
 
-## Privacy and Security Tools
-
-### Tools
+### Privacy and Security Tools
 * [Digital Defense Checklist](https://digital-defense.io/)
     * Gauge your Digital Defense coverage visually (not exhaustive list, just helpful)
 * [PrivacySpy](https://privacyspy.org/)

@@ -7,8 +7,8 @@ tags:
 ---
 
 ## Privacy and Security Resources
-### Resources
-#### Clear Net
+
+### Clear Net
 * [Electronic Frontier Foundation](https://www.eff.org/)
     * Nonprofit organization dedicated to defending civil liberties in the digital world
 * [EFF's Surveillance Self Defense](https://ssd.eff.org/)
