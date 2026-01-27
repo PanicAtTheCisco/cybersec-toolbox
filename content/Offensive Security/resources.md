@@ -3,7 +3,6 @@ title: Off-Sec Resources
 tags:
   - resources
   - offensive-security
-  - physical-security
 ---
 
 ## Offensive Security Resources

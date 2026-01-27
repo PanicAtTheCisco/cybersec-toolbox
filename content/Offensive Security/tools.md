@@ -12,7 +12,6 @@ tags:
 * [DNSDumpster](https://dnsdumpster.com/)
 * [Hurricane Electric](https://bgp.he.net/)
     * The Hurricane Electric BGP Toolkit
-
 #### Web
 * [Logsensor](https://github.com/Mr-Robert0/Logsensor)
 
@@ -32,7 +31,6 @@ tags:
 #### General
 * [Revshells](https://www.revshells.com/)
     * Online reverse shell generator
-
 #### Web
 * [php-webshells](https://github.com/JohnTroony/php-webshells)
 * [webhook.site](https://webhook.site/)
@@ -41,5 +39,5 @@ tags:
 ### Actions on Objective
 * In progress...
 
-## Misc Tools
+### Misc Tools
 * [Pen Testers Framework](https://github.com/trustedsec/ptf)
