@@ -5,7 +5,7 @@ tags:
   - learning
 ---
 
-### Programming
+## Programming
 * [learn-bash.org](https://learn-bash.org/)
 * [learnpython.org](https://www.learnpython.org/)
 * [go.dev](https://go.dev/learn/)
@@ -16,7 +16,7 @@ tags:
 * [dev.java](https://dev.java/learn/)
 * [learn-php.org](https://www.learn-php.org/)
 
-### System & Networking
+## System & Networking
 * [linuxjourney.com](https://linuxjourney.com/)
 * [linux-training.be](https://linux-training.be/)
 * [debian.org](https://www.debian.org/doc/manuals/debian-handbook/index.en.html)
@@ -25,7 +25,7 @@ tags:
 * [computernetworkingnotes.com](https://www.computernetworkingnotes.com/networking-tutorials/)
 * [guru99.com](https://www.guru99.com/data-communication-computer-network-tutorial.html)
 
-### Training Labs
+## Training Labs
 * [tryhackme.com](https://tryhackme.com/)
 * [hackthebox.com](https://app.hackthebox.com/)
 * [academy.hackthebox.com](https://academy.hackthebox.com/)
@@ -38,7 +38,7 @@ tags:
 * [owasp.org/secure-coding-dojo](https://owasp.org/www-project-secure-coding-dojo/)
 * [Cloud Hacking Labs](https://crush3r.notion.site/5318732e7b6d4179857c5f99d3e94459?v=cdf66dcd37f243399c1a08ab5f317158)
 
-### Materials
+## Materials
 * [Cybersecurity Stash](https://cybersecuritystash.com/)
 * [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
 * [pentest-standard.org](https://www.pentest-standard.org/index.php/Main_Page)
@@ -49,7 +49,7 @@ tags:
 * [mirror.parrot.sh/misc/openbooks](https://mirror.parrot.sh/parrot/misc/openbooks/)
 * [freecomputerbooks.com](https://freecomputerbooks.com/)
 
-### Blogs & Researchers
+## Blogs & Researchers
 * [freecomputerbooks.com](https://freecomputerbooks.com/)
 * [redtm.com](https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/)
 * [csandker.io - Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)
@@ -66,6 +66,6 @@ tags:
 * [connormcgarr.github.io](https://connormcgarr.github.io/)
 * [speakerdeck.com - electrovolt](https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron)
 
-### MITRE
+## MITRE
 * [attack.mitre.org](https://attack.mitre.org/)
 * [mitre-attack-navigator](https://mitre-attack.github.io/attack-navigator/)

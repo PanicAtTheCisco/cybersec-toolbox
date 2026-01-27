@@ -1,5 +1,5 @@
 ## Cybersec Toolbox
-A repository of Cybersecurity tools and resources I have found to be useful
+The Cybersec-Toolbox is curated collection of cybersecurity tools and resources organized for quick access.
 
 https://toolbox.paniclabs.dev/
 

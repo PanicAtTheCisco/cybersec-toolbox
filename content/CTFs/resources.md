@@ -5,7 +5,7 @@ tags:
   - ctfs
 ---
 
-### Just a list of CTFs/ Challenges I have found fun
+## Just a list of CTFs/ Challenges I have found fun
 * [ctftime.org](https://ctftime.org/)
 * [capturetheflag.withgoogle.com](https://capturetheflag.withgoogle.com/)
 * [picoctf.org](https://picoctf.org/)

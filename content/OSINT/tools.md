@@ -5,7 +5,7 @@ tags:
   - osint
 ---
 
-### Tool Collections
+## Tool Collections
 Large repositories of all kinds of OSINT tools
 * [Bellingcat OSINT Toolkit](https://bellingcat.gitbook.io/toolkit)
 * [OSINT Framework](https://osintframework.com/)
@@ -16,7 +16,7 @@ Large repositories of all kinds of OSINT tools
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file)
 * [Jieyab89 OSINT Cheat Sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 
-### Air & Space Tracking
+## Air & Space Tracking
 * [ADSB Exchange](https://globe.adsbexchange.com/)
 * [Flight Aware](https://www.flightaware.com/live/)
 * [FlightRadar24](https://www.flightradar24.com/)
@@ -27,7 +27,7 @@ Large repositories of all kinds of OSINT tools
 * [SatelliteXplorer](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
 * [in-the-sky.org](https://in-the-sky.org/satmap_worldmap.php)
 
-### Land & Sea Tracking
+## Land & Sea Tracking
 * [OpenRailwayMap](https://www.openrailwaymap.org/)
 * [geOps Mobility Portal](https://mobility.portal.geops.io/)
 * [Open Train Times](https://www.opentraintimes.com/maps)
@@ -36,17 +36,17 @@ Large repositories of all kinds of OSINT tools
 * [GeoSpy AI](https://geospy.web.app/)
     * No longer free to use but works quite well for image geolocation
 
-### Cyber Threat Intel
+## Cyber Threat Intel
 * [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
 
-### Camera Tracking
+## Camera Tracking
 * [Insecam](http://www.insecam.org/)
 * [World Webcams](https://world-webcams.nsspot.net/)
 * [EarthCam](https://www.earthcam.com/)
 * [WorldCam](https://worldcam.eu/)
 * [Live From Iceland](https://www.livefromiceland.is/)
 
-### Search Engines
+## Search Engines
 * [Shodan](https://www.shodan.io/)
     * Internet device search engine
 * [Censys](https://search.censys.io/)
@@ -62,6 +62,6 @@ Large repositories of all kinds of OSINT tools
 * [GrayHatWarfare Buckets](https://buckets.grayhatwarfare.com/)
     * Public cloud bucket Search
 
-### Discord Bots
+## Discord Bots
 * [Bosint](https://bosint.gg/)
     * Discord bot with OSINT tool capabilities

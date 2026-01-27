@@ -6,7 +6,7 @@ tags:
   - security
 ---
 
-### Clear Net Resources
+## Clear Net Resources
 * [Electronic Frontier Foundation](https://www.eff.org/)
     * Nonprofit organization dedicated to defending civil liberties in the digital world
 * [EFF's Surveillance Self Defense](https://ssd.eff.org/)
@@ -16,7 +16,7 @@ tags:
 * [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide/)
     * Provides an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining anonymous online identities
 
-### TOR/Deep Net Resources
+## TOR/Deep Net Resources
 * [The Hidden Wiki](https://thehiddenwiki.org/)
     * Helps with finding TOR sites
 * [OnionLinks](http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/)
