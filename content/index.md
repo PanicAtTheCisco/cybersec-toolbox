@@ -9,6 +9,7 @@ tags:
 * [HackTricks](https://book.hacktricks.xyz/)
 * [GTFO Bins](https://gtfobins.github.io/)
 * [LOLBAS](https://lolbas-project.github.io/#)
+* [LOLGlobs](https://0xv1n.github.io/LOLGlobs/)
 * [Cyber Chef](https://gchq.github.io/CyberChef/)
 * [Crack Station](https://crackstation.net/)
 * [Dcode](https://www.dcode.fr/en)
