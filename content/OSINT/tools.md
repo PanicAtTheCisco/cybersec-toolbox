@@ -23,18 +23,22 @@ Large repositories of all kinds of OSINT tools
 * [Air Nav Radar](https://www.airnavradar.com/)
 * [Airportia](https://www.airportia.com/)
 * [SondeHub Amateur](https://amateur.sondehub.org/)
-* [satellitemap.space](https://satellitemap.space/)
-* [SatelliteXplorer](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
-* [in-the-sky.org](https://in-the-sky.org/satmap_worldmap.php)
 
 ## Land & Sea Tracking
 * [OpenRailwayMap](https://www.openrailwaymap.org/)
 * [geOps Mobility Portal](https://mobility.portal.geops.io/)
 * [Open Train Times](https://www.opentraintimes.com/maps)
-* [satellites.pro](https://satellites.pro/)
 * [Bellingcat OSM](https://osm-search.bellingcat.com/)
 * [GeoSpy AI](https://geospy.web.app/)
     * No longer free to use but works quite well for image geolocation
+
+## Satellite Data
+* [Google Earth Engine](https://earthengine.google.com/)
+* [Copernicus Satellite Data](https://dataspace.copernicus.eu/)
+* [satellitemap.space](https://satellitemap.space/)
+* [SatelliteXplorer](https://geoxc-apps.bd.esri.com/space/satellite-explorer/)
+* [in-the-sky.org](https://in-the-sky.org/satmap_worldmap.php)
+* [satellites.pro](https://satellites.pro/)
 
 ## Cyber Threat Intel
 * [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
