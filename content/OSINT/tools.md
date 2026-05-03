@@ -49,6 +49,8 @@ Large repositories of all kinds of OSINT tools
 
 ## Cyber Threat Intel
 * [deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
+* [Ransomware Live](https://www.ransomware.live/)
+    * Threat intelligence platform tracking ransomware groups and their victims worldwide
 
 ## Search Engines
 * [Shodan](https://www.shodan.io/)
