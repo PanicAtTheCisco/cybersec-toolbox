@@ -1,6 +1,6 @@
 version: 2
 # Disabled: Quartz pins its own deps, checking major bumps manually
-#updates:
+updates:
 #  - package-ecosystem: "npm"
 #    directory: "/"
 #    schedule:
