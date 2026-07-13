@@ -46,3 +46,5 @@ tags:
 
 ## Misc Tools
 * [Pen Testers Framework](https://github.com/trustedsec/ptf)
+* [AES Encryption Online](https://aesencryption.net/)
+    * Web based AES decryptor with support for single character keys
