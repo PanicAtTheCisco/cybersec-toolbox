@@ -27,5 +27,3 @@ tags:
     * How different VPNs are related to each other
 * [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)
     * An initiative by a number of law enforcement agencies to provide free decryption tools to a variety of ransomware to help victims get their data back without paying
-* [Ente QR Code](https://qr.ente.com/)
-    * Privacy focused and free QR code generator
