@@ -5,6 +5,6 @@ The Cybersec-Toolbox is curated collection of cybersecurity tools and resources 
 
 ---
 
-### Made using Quartz v4
+### Made using Quartz
 
 🔗 https://quartz.jzhao.xyz/
