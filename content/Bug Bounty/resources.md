@@ -1,0 +1,10 @@
+---
+title: Bug Bounty Resources
+tags:
+  - resources
+  - bug-bounty
+---
+
+## Bug Bounty Platforms
+* [hackerone.com](https://www.hackerone.com/)
+* [bugcrowd.com](https://www.bugcrowd.com/)
